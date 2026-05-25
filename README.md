@@ -23,3 +23,9 @@ AtliQ Grands was facing a decline in revenue and market share due to increasing 
 
 6. GOAL OF THE DASHBOARD: 
 The goal of this dashboard was to provide data-driven insights into hotel performance, revenue trends, occupancy rates, and booking behavior. It helps management make strategic decisions to improve customer experience, optimize operations, and increase profitability.
+
+
+
+
+
+
